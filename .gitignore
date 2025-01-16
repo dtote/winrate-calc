@@ -1,0 +1,6 @@
+# Ignorar entorno virtual
+venv/
+
+# Archivos creados por el SO
+*.DS_Store
+*.log
